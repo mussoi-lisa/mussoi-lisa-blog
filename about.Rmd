@@ -2,6 +2,10 @@
 title: "About me"
 ---
 
+- Mussoi Lisa
+- Teacher: Nicolas Devilez
+- BAB2 biology 
+- Group 4
 
 This section also must include: 
 

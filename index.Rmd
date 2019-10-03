@@ -1,5 +1,5 @@
 ---
-title: "Everything you need to know about elephants"
+title: "Effect of the polution on the ocean organism"
 site: distill::distill_website
 listing: posts
 ---
