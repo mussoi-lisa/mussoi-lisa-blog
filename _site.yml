@@ -14,5 +14,6 @@ navbar:
 base_url: http://mussoi-lisa.github.io/mussoi-lisa-blog/
 collections:
     posts:
+      disqus: mussoi-lisa-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
