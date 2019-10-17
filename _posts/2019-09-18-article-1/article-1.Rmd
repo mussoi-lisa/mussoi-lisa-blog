@@ -42,9 +42,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | (insert names and, if possible, professions)                        |
-| Published in?                | (insert date)                                                       |
-| General topic?               |  (summarize the topic in one or two sentences)                      |
+| Researchers                  | (Chelsea Harvey, she is an environmental journalist who covering in climat's search)                        |
+| Published in?                | (July 15, 2019)                                                       |
+| General topic?               |  (The effect of iron's particle on the developpement of phytoplakton)                      |
 | Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
 | Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
 | Remaining questions?         | (check if there are still interrogations at the end of the article) |
