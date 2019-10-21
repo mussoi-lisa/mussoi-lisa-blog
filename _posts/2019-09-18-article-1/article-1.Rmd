@@ -7,7 +7,7 @@ categories:
   - Ocean
   - Iron 
   - plankton 
-preview: image/plancton.jpg
+preview: Image/plancton.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -18,7 +18,10 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![ [Credit: Manuel Breva Colmeiro / Getty Images](https://www.thoughtco.com/plankton-definition-2291737) ](image/plancton.jpg)
+![[Aqua-portail](https://www.aquaportail.com/definition-1229-plancton.html)] (Image/plancton2.jpg)
+
+
+
 
 ## Vocabulary 
 
@@ -52,5 +55,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <https://www.scientificamerican.com/article/humans-may-be-accidentally-geoengineering-the-oceans/?fbclid=IwAR14BsznwQWr_4mDy0KwkaLF1h3d2pAfStIF1D8lU5v99Y0dYryW_I3ktN0>
 
+<http://localhost:8719/files/shared/projects/mussoi-lisa-blog/_posts/2019-09-18-article-1/article%201%20anglais.pdf>
 
 
