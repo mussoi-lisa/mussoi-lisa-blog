@@ -10,11 +10,34 @@ output:
     self_contained: false
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+|reef | a cluster of corals|
+|Stark | bare|
+|Stony| covered in stones|
+|Annihilate | destroy completely|
+|Outbreak | disease|
+|Plague | pestilence |
+|common | cold cold virus|
+|One-two punch |double impact|
+|To soak up | absorbliquid|
+|To breed | procreate|
+|To slather | apply thickly|
+|To fight off | defend yourself from|
+|To slough off | Lost|
+|Ongoing | continuing|
 
-Distill is a publication format for scientific and technical writing, native to the web.
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Marilyn Brandt, works  at the St. Thomas campus of the University of the Virgin Islands with her scientist team. Karen Neely works at Nova Southeastern University in Fort Lauderdale. Amy Apprill works at Woods Hole Oceanographic Institution in Massachusetts. Laura Mydlarz she is a immunologist at the University of Texas at Arlington.               |
+| Published in?                | August 29, 2019                                                       |
+| General topic?               |  Coral disease in Caribbean's sea                     |
+| Procedure/what was examinated? | They found coral's disease near florida and near Caribbean's island. They think that opwarming water and overfishing are very bad for coral because warming water are good for the developpement of bacteria and the overfishing can stress the coral and the can be more weaker so be sick more fast.
+The coral can be bleaching too, it's the major cause of the coral decline because they eject their symbiose's alguae. To find the source of the microbe they analysed the microbe in the water who lived near the coral and they analysed other animal in labo with the sick coral. Mydlarz had made the coral's beleive that they were infected by a bacteria and she saw that they made new cell but the heatly coral when they die still in state of die cell. |
+| Conclusions/discovery?       | They found that the disease is countagious, the pollution can cause the disease. The disease call Skittle-D they found that it's cause by more than ine pathogene. They found that the immune systeme of sick coral are different of the  healthy coral's immune systeme.     |
+| Remaining questions?         |They some solution, they think to a antibiotic pasta to slather and put one healthy coral between 2 sick coral but they don't if it's can works for a long time.   |
 
