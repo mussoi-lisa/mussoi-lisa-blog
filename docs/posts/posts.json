@@ -16,12 +16,12 @@
       "plankton"
     ],
     "preview": "posts/2019-09-18-article-1/Image/plancton.jpg",
-    "last_modified": "2019-11-01T14:03:16+01:00"
+    "last_modified": "2019-11-02T10:57:04+01:00"
   },
   {
     "path": "posts/2019-10-03-article-2/",
-    "title": "Article 2",
-    "description": "A short description of the post.",
+    "title": "Mystery disease is killing Caribbean corals",
+    "description": "A stange disease, the skittle-D kill coral's reef in Caribbean sea, and scientist think that the cause is the pollution..",
     "author": [
       {
         "name": "Lisa Mussoi",
@@ -31,6 +31,6 @@
     "date": "2019-10-03",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-01T14:03:20+01:00"
+    "last_modified": "2019-11-02T10:56:47+01:00"
   }
 ]
