@@ -16,7 +16,27 @@
       "plankton"
     ],
     "preview": "posts/2019-09-18-article-1/Image/plancton.jpg",
-    "last_modified": "2019-11-02T10:57:04+01:00"
+    "last_modified": "2019-11-12T18:14:44+01:00"
+  },
+  {
+    "path": "posts/2019-18-11-article-3/",
+    "title": "Article 3 : Climate change and overfishing are boosting toxic mercury levels in fish",
+    "description": {},
+    "author": [
+      {
+        "name": "Mussoi Lisa",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-16",
+    "categories": [
+      "Ocean",
+      "Fish",
+      "Overfishing",
+      "Climate"
+    ],
+    "preview": {},
+    "last_modified": "2019-11-13T16:53:28+01:00"
   },
   {
     "path": "posts/2019-10-03-article-2/",
