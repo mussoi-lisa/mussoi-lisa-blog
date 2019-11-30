@@ -5,6 +5,7 @@ description: |
 author:
   - name: Lisa Mussoi 
 date: 10-03-2019
+Preview: Images/corail2.jpg 
 output:
   distill::distill_article:
     self_contained: false
@@ -12,7 +13,7 @@ output:
 
 
 
-
+![](images/corail1.jpg)
 
 
 

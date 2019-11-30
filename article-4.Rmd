@@ -1,0 +1,48 @@
+---
+title: "Article 4 : Prey-size plastics are invading larval fish nurseries"
+author:
+  - name: Mussoi Lisa
+date: 11-30-2019
+categories:
+  - Ocean
+  - plastic
+  - fish
+preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Vocabulary
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| field-based | carried out in nature |
+| surface slicks | the water at the surface  | 
+| targeted | aiming at for a attack |
+| swordfish  | large fish with long jaw  |
+| Toxin-laden  | with a lot of toxin |
+| gut  | belly |
+| scaling up |  elargement|
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |  Dr. Jonathan Whitney, it's a marin ecologist form the Joint Institute for Marine and Atmospheric Research and NOAA.|
+| Published in?                |  11 November 2019                                                     |
+| General topic?               |  the contamination of plastic in the larval fish                      |
+| Procedure/what was examinated? | Near Hawaï some scientis observe that there are more larval fish at thesurface slicks. It's was very nice beacause the laval fish developpe with phytoplakton and it's very good for the marin's ecosysteme. But they observed plastic in the stomach's larval fish and in a lot of fish's species. In laval fish the plastic it's harmful but in adult fish it can cause stomach hurt and kill them.|
+| Conclusions/discovery?       |    |
+| Remaining questions?         |   |
+
+
+
+
+
+
+

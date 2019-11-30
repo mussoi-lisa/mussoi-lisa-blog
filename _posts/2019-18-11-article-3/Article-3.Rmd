@@ -8,7 +8,7 @@ categories:
   - Fish
   - Overfishing
   - Climate 
-preview: 
+preview: surpeche.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -17,6 +17,13 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+
+![](images/mercury.png)
+
+
+
+
 
 ## Vocabulary 
 
