@@ -36,9 +36,9 @@ knitr::opts_chunk$set(echo = FALSE)
 | Researchers                  |  Dr. Jonathan Whitney, it's a marin ecologist form the Joint Institute for Marine and Atmospheric Research and NOAA.|
 | Published in?                |  11 November 2019                                                     |
 | General topic?               |  the contamination of plastic in the larval fish                      |
-| Procedure/what was examinated? | Near Hawaï some scientis observe that there are more larval fish at thesurface slicks. It's was very nice beacause the laval fish developpe with phytoplakton and it's very good for the marin's ecosysteme. But they observed plastic in the stomach's larval fish and in a lot of fish's species. In laval fish the plastic it's harmful but in adult fish it can cause stomach hurt and kill them.|
-| Conclusions/discovery?       |    |
-| Remaining questions?         |   |
+| Procedure/what was examinated? | Near Hawaï some scientis observe that there are more larval fish at the surface slicks. It's was very nice beacause the laval fish developpe with phytoplakton and it's very good for the marin's ecosysteme.  In laval fish the plastic it's harmful but in adult fish it can cause stomach hurt and kill them.|
+| Conclusions/discovery?       |  The surface slicks is the place where larval fish find a lot of food buut it's also the place where there are a lot of plastic so it eat a lot of minute particule of plasitc. The scientific find that a lot of species of fish are concerned by this probleme.  In laval fish the plastic it's harmful but in adult fish it can cause stomach hurt and kill them.       |
+| Remaining questions?         | Today the scientific doesn't kown all the effect of the plastic on fishes.  |
 
 
 
