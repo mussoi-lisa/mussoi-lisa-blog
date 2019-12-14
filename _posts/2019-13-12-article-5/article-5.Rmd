@@ -30,12 +30,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  |  Dr. Jonathan Whitney, it's a marin ecologist form the Joint Institute for Marine and Atmospheric Research and NOAA.|
-| Published in?                |  11 November 2019                                                     |
-| General topic?               |  the contamination of plastic in the larval fish                      |
-| Procedure/what was examinated? | Near Hawaï some scientis observe that there are more larval fish at the surface slicks. It's was very nice beacause the laval fish developpe with phytoplakton and it's very good for the marin's ecosysteme.  In laval fish the plastic it's harmful but in adult fish it can cause stomach hurt and kill them.|
-| Conclusions/discovery?       |  The surface slicks is the place where larval fish find a lot of food buut it's also the place where there are a lot of plastic so it eat a lot of minute particule of plasitc. The scientific find that a lot of species of fish are concerned by this probleme.  In laval fish the plastic it's harmful but in adult fish it can cause stomach hurt and kill them.       |
-| Remaining questions?         | Today the scientific doesn't kown all the effect of the plastic on fishes.  |
+| Researchers                  |  Jordan Hollarsmith from the UC Davis Bodega Marine Laboratory.|
+| Published in?                |   13 November 2019                                                     |
+| General topic?               |  The resistance of the kelp to the climate's change.                       |
+| Procedure/what was examinated? | In 2014, a the temperature rise in California. There are kelp in Northern California and the same species in Southern California. The kelp oh the South died during the kelp of the North survived. So the scientific research if the kelp can survive at the climate's change like acidification of ocean or the rise of the temperature. So they test the developpement of the kelp in different water. They focus their survey on the giant kelp when there are at a early stage of their developpement because it's at that stage that there are the more sensible at environement changing. The researcher test different pH of water on the kelp to simular the acidification of the ocean and the upwelling. |
+| Conclusions/discovery?       | They found that the high altitude kill the varech and the temperature kill the kelp of the Nothern california and prevent their reproduction. And they found that pH didn't hurt the reproduction of the kelp and it doesn't kill them.   |
+| Remaining questions?         | |
 
 
 
