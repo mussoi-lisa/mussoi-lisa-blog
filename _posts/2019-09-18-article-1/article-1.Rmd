@@ -7,7 +7,7 @@ categories:
   - Ocean
   - Iron 
   - plankton 
-preview: Image/plancton.jpg
+preview: image/plancton2.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 **Plancton**
-![Aqua-portail](image/plancton2.jpg)
+![[Aqua-portail](https://www.scientificamerican.com/article/humans-may-be-accidentally-geoengineering-the-oceans/?fbclid=IwAR14BsznwQWr_4mDy0KwkaLF1h3d2pAfStIF1D8lU5v99Y0dYryW_I3ktN0)](image/plancton2.jpg)
 
 
 
