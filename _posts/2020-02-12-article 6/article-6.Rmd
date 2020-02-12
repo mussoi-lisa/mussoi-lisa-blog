@@ -1,0 +1,49 @@
+---
+title: "Article 6 : "
+author:
+  - name: Mussoi Lisa
+date: 02-12-2020
+categories:
+  - PCB
+  - Whales
+  - Toxic
+preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| Porpoise | Type of ceatacean |
+| Run-off | Flow from|
+| Dreging | Digging up of riverbed |
+| Odontocetes | Familly of whales with theet |
+| Understanding | Kwonledge |
+| Orcas | Another type of cetacean, more precisely from the familly of odontocetes |
+| Liguing | That lingers |
+| Pathway | Little way  |
+| PCB | Subtances toxic who are synthesize by industries |
+
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |  |
+| Published in?                |                                                       |
+| General topic?               |   |
+| Procedure/what was examinated? |  |
+| Conclusions/discovery?       |  |
+| Remaining questions?         |   |
+
+
+
