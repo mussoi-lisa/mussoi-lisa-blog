@@ -3,11 +3,11 @@ title: "Article 4 : Prey-size plastics are invading larval fish nurseries"
 author:
   - name: Mussoi Lisa
 date: 11-30-2019
-categories:
+categories: 
   - Ocean
   - plastic
   - fish
-preview: 
+preview: /Images/plasticfish.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -15,6 +15,8 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+![](article-4_files/Images/fish.jpg) 
 
 ## Vocabulary
 
