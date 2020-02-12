@@ -2,13 +2,13 @@
 title: "Article 3 : Climate change and overfishing are boosting toxic mercury levels in fish"
 author:
   - name: Mussoi Lisa
-date: 10-16-2019
+date: 11-13-2019
 categories:
   - Ocean
   - Fish
   - Overfishing
   - Climate 
-preview: surpeche.jpg
+preview: Article-3_files/Images/surpeche.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -19,8 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![](images/mercury.png)
-
+![](Article-3_files/Images/mercure.png)
 
 
 
