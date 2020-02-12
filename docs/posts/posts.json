@@ -57,6 +57,21 @@
     "last_modified": "2020-02-12T11:29:46+01:00"
   },
   {
+    "path": "posts/2019-10-03-article-2/",
+    "title": "Article 2: Mystery disease is killing Caribbean corals",
+    "description": {},
+    "author": [
+      {
+        "name": "Lisa Mussoi",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-16",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-02-12T11:39:43+01:00"
+  },
+  {
     "path": "posts/2019-18-11-article-3/",
     "title": "Article 3 : Climate change and overfishing are boosting toxic mercury levels in fish",
     "description": {},
@@ -75,20 +90,5 @@
     ],
     "preview": {},
     "last_modified": "2019-11-18T11:51:32+01:00"
-  },
-  {
-    "path": "posts/2019-10-03-article-2/",
-    "title": "Article2: Mystery disease is killing Caribbean corals",
-    "description": "A stange disease, the skittle-D kill coral's reef in Caribbean sea, and scientist think that the cause is the pollution..",
-    "author": [
-      {
-        "name": "Lisa Mussoi",
-        "url": {}
-      }
-    ],
-    "date": "2019-10-03",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-02-12T11:32:24+01:00"
   }
 ]
