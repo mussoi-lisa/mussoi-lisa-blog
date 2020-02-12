@@ -1,11 +1,9 @@
 ---
-title: "Mystery disease is killing Caribbean corals"
-description: |
-  A stange disease, the skittle-D kill coral's reef in Caribbean sea, and scientist think that the cause is the pollution..
+title: "Article2: Mystery disease is killing Caribbean corals"
 author:
   - name: Lisa Mussoi 
 date: 10-03-2019
-Preview: Images/corail2.jpg 
+Preview: Images/corail.jpg 
 output:
   distill::distill_article:
     self_contained: false
