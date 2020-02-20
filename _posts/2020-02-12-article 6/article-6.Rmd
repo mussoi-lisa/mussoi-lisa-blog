@@ -3,7 +3,7 @@ title: "Article 6 : Harbor porpoise calves exposed to neurotoxic PCBs in mothers
 author:
   - name: Mussoi Lisa
 date: 02-12-2020
-categories:
+categories: article-6_files/Images/beluga.jpg
   - PCB
   - Whales
   - Toxic
@@ -16,6 +16,14 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+
+
+
+
+
+
+
 
 
 ## Vocabulary 
