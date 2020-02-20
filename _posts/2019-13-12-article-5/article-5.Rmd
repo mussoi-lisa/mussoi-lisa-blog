@@ -16,6 +16,10 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+
+![](article-5_files/Images/kelp2.jpg) 
+
+
 ## Vocabulary
 
 | Words from the text | Synonym/explanation in English |
