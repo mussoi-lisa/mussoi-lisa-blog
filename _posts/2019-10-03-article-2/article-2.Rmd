@@ -3,7 +3,7 @@ title: "Article 2: Mystery disease is killing Caribbean corals"
 author:
   - name: Lisa Mussoi 
 date: 11-04-2019
-Preview: /article-2_files/Images/corail.jpg 
+Preview: Images/Corail.jpg 
 output:
   distill::distill_article:
     self_contained: false
@@ -11,7 +11,7 @@ output:
 
 
 
-![](article-2_files/Images/corail1.jpg)
+![](Images/corail1.jpg)
 
 
 
