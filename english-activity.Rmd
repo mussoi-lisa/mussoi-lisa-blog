@@ -1,5 +1,11 @@
 ---
 title: "My english activity log"
+author:
+  - name: Mussoi Lisa
+date: 10-16-2019
+output:
+  distill::distill_article:
+    self_contained: false
 ---
 Let me to talk about me, I study biology at Umons during the week and I work in a hotel restaurant during the weekend. I have a kot so and I like to party so sometimes I go to the pub and I like talk to people even if they don't speak french. I play a lot of music, so everyday I think I play songs in english and I like to kwon the signification of the song saw I go to see teh lyrics in french and I learn a lot of new words. I like to travel with my friends too, so I must to speak english with people if I want to survive. But let me tell you more
 
