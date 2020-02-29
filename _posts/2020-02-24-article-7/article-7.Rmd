@@ -1,7 +1,5 @@
 ---
-title: "article 7"
-description: |
-  A short description of the post.
+title: "article 7: Low oxygen levels could temporarily blind marine invertebrates"
 author:
   - name: Mussoi Lisa
     url: {}
@@ -11,11 +9,35 @@ output:
     self_contained: false
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| shelter | refuge |
+| cue | signal |
+| sink   | fall |
+| eutrophication | It's an accumulation of nutriment in water |
+| seawage |  liquid waste|
+| up walling  |  it's when water return to surface|
+| deplete | use up |
+
+
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |Lillian McCormick is scientists at Scripps Institution of Oceanography at the University of California San Diego, Nicholas Oesch is a researcher at the UC San Diego Department of Psychology.|
+| Published in?                |  9 may 2019|
+| General topic?               | The low oxygens could temporary blind marin's animal like crabs or squid. Especially if the animals are in the lavae stade. When an animal is in its lavae stades it 's in the zooplankton. Zooplaknton need to see to see its prey, to hide it or for the migration. But cause of pollution the oxygene level decrease and marin's animal could be blind.  |
+| Procedure/what was examinated? | They exposed animal like crabs or squid at different levels of oxygens and they examined the elicit visual reponse with electrode that was connect the to retina of the animals  |
+| Conclusions/discovery?       | They found that the vison can be reduce by 60 to 100% cause of low oxygen levels. The vision dbegan to decrease at the level of oxygen that are in the surface on ocean. The ocotopus held out longer than another animals. But when the levels of oxygen increase it recover its slight. |
+| Remaining questions?         |They don't how it's infect the behaviour of animals because they need its vision to the migration or to eat and see its prey.     |
+
+
+
+
 ```
-
-Distill is a publication format for scientific and technical writing, native to the web.
-
-Learn more about using Distill at <https://rstudio.github.io/distill>.
 
