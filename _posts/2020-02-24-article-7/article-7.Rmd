@@ -1,14 +1,20 @@
 ---
-title: "A 7: Low oxygen levels could temporarily blind marine invertebrates"
+title: "Article 7: Low oxygen levels could temporarily blind marine invertebrates"
 author:
   - name: Mussoi Lisa
     url: {}
 date: 02-24-2020
+categories:
+  - ocean 
+  - vision 
+  - oxygene
+preview: article-7_files/Images/squid
 output:
   distill::distill_article:
     self_contained: false
 ---
 
+![](article-7_files/Images/tunacrabs.jpg)
 
 ## Vocabulary 
 
@@ -31,13 +37,15 @@ output:
 | ---------------------------- | ------------------------------------------------------------------- |
 | Researchers                  |Lillian McCormick is scientists at Scripps Institution of Oceanography at the University of California San Diego, Nicholas Oesch is a researcher at the UC San Diego Department of Psychology.|
 | Published in?                |  9 may 2019|
-| General topic?               | The low oxygens could temporary blind marin's animal like crabs or squid. Especially if the animals are in the lavae stade. When an animal is in its lavae stades it 's in the zooplankton. Zooplaknton need to see to see its prey, to hide it or for the migration. But cause of pollution the oxygene level decrease and marin's animal could be blind.  |
+| General topic?               | The low oxygens could temporary blind marin's animal like crabs or squid. Especially if the animals are in the lavae stade. When an animal is in their larvae stades it 's in the zooplankton. Zooplaknton need to see to see their prey, to hide it or for the migration. But cause of pollution the oxygene level decrease and marin's animal could be blind.  |
 | Procedure/what was examinated? | They exposed animal like crabs or squid at different levels of oxygens and they examined the elicit visual reponse with electrode that was connect the to retina of the animals  |
-| Conclusions/discovery?       | They found that the vison can be reduce by 60 to 100% cause of low oxygen levels. The vision dbegan to decrease at the level of oxygen that are in the surface on ocean. The ocotopus held out longer than another animals. But when the levels of oxygen increase it recover its slight. |
-| Remaining questions?         |They don't how it's infect the behaviour of animals because they need its vision to the migration or to eat and see its prey.     |
+| Conclusions/discovery?       | They found that the vison can be reduce by 60 to 100% cause of low oxygen levels. The vision began to decrease at the level of oxygen that are in the surface of ocean. The ocotopus held out longer than another animals. But when the levels of oxygen increase it recover their slight. |
+| Remaining questions?         |They don't how it infect the behaviour of animals because they need its vision to the migration or to eat and see its prey.     |
 
 
 
+<https://phys.org/news/2019-05-oxygen-temporarily-marine-invertebrates.html> 
 
-```
+<https://mussoi-lisa.github.io/mussoi-lisa-blog/posts/2020-02-24-article-7/>
+
 

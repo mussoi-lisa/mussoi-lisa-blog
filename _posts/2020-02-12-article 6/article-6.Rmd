@@ -3,11 +3,11 @@ title: "Article 6 : Harbor porpoise calves exposed to neurotoxic PCBs in mothers
 author:
   - name: Mussoi Lisa
 date: 02-12-2020
-categories: article-6_files/Images/beluga.jpg
+categories: 
   - PCB
   - Whales
   - Toxic
-preview: 
+preview: article-6_files/Images/beluga.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -53,5 +53,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Conclusions/discovery?       | First the scientits found that there are 209 type of PCB and all that type make a neurotoxic cocktail. They found that the PCB are dangerous for the developement of the brain of porpoise calves. PCBs are in the milk of the whales and they pass it to the calves but not also. If an animal have PCB in it its predator will eat it and have the PCB. So in the food chain the main predator will have a lot of PCB. They tried to monitor the PCB but it's impossible because there are a lot of mixing of PCBs and every PCB are different.  |
 | Remaining questions?         | They don't know all effects of the PCB on the marin's life neither how stop this.   |
 
+<https://phys.org/news/2019-12-harbor-porpoise-calves-exposed-neurotoxic.html>
 
+<https://mussoi-lisa.github.io/mussoi-lisa-blog/posts/2020-02-12-article%206/>
 

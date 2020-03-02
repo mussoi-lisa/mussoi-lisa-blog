@@ -41,5 +41,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Conclusions/discovery?       | They found that the high altitude kill the varech and the temperature kill the kelp of the Nothern california and prevent their reproduction. And they found that pH didn't hurt the reproduction of the kelp and it doesn't kill them.   |
 | Remaining questions?         | |
 
+<https://www.sciencedaily.com/releases/2019/11/191113170310.htm>
 
+<https://mussoi-lisa.github.io/mussoi-lisa-blog/posts/2019-13-12-article-5/>
 

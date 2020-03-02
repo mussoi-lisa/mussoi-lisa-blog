@@ -43,7 +43,9 @@ knitr::opts_chunk$set(echo = FALSE)
 | Remaining questions?         | Today the scientific doesn't kown all the effect of the plastic on fishes.  |
 
 
+<https://phys.org/news/2019-11-prey-size-plastics-invading-larval-fish.html>
 
+<https://mussoi-lisa.github.io/mussoi-lisa-blog/posts/2019-11-30-article-4/>
 
 
 
