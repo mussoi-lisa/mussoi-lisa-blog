@@ -1,5 +1,5 @@
 ---
-title: "article 7: Low oxygen levels could temporarily blind marine invertebrates"
+title: "A 7: Low oxygen levels could temporarily blind marine invertebrates"
 author:
   - name: Mussoi Lisa
     url: {}
