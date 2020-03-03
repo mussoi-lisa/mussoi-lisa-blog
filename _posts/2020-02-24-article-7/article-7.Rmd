@@ -8,7 +8,7 @@ categories:
   - ocean 
   - vision 
   - oxygene
-preview: article-7_files/Images/squid
+preview: article7_files/Images/squid.jpg
 output:
   distill::distill_article:
     self_contained: false
