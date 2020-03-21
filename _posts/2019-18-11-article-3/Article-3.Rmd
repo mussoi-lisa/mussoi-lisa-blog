@@ -45,8 +45,8 @@ knitr::opts_chunk$set(echo = FALSE)
 | Researchers                  |  Not mentioned     |
 | Published in?                |  November 8, 2019  |
 | General topic?               | The climate change, the mercury rise up and the overfishing boost the toxic mercury in fish and other animals in the ocean. |
-| Procedure/what was examinated? | The scientist saw that the toxic mercury level in the fish rise. It's more important in big fish like salmon but there are high in food web. So they eat little fish like anchovy who have some toxic mercury in their muscle so there are an accumalation of toxic mercury in big fish.  |
-| Conclusions/discovery?       | The toxic mercury is the methylmecury it's pregnant for the children. For the salmon it's critic because there are exacerbate. Cause of pollution the temperature still to increase and it's continue to increase the methylmercury in fish.|
+| Procedure/what was examinated? | The scientist found that the level of toxic mercury in fish is increasing. It is higher in large fish like salmon but there is a lot of it in the food chain. So they eat small fish like anchovies that have toxic mercury in their muscles, which causes toxic mercury to build up in the larger fish.  |
+| Conclusions/discovery?       | Toxic mercury is methylmercury. For salmon, it is critical because they are on the brink of extinction. Because of pollution, the temperature continues to rise and the methylmercury in the fish continues to increase.|
 | Remaining questions?         | If we do nothing the situation will be worse and it will become very dangerous for human too.  |
 
 <https://phys.org/news/2019-11-climate-overfishing-boosting-toxic-mercury.html>
