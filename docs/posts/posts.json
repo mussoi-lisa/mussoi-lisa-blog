@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-03-18-article8/",
+    "title": "Article 8 :Ocean acidification impacts oysters' memory of environmental stress ",
+    "description": {},
+    "author": [
+      {
+        "name": "Mussoi Lisa",
+        "url": {}
+      }
+    ],
+    "date": "2020-03-16",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-04-06T14:43:14+02:00"
+  },
+  {
     "path": "posts/2020-02-24-article-7/",
     "title": "Article 7: Low oxygen levels could temporarily blind marine invertebrates",
     "description": {},
@@ -16,7 +31,7 @@
       "oxygene"
     ],
     "preview": {},
-    "last_modified": "2020-03-03T17:31:31+01:00"
+    "last_modified": "2020-04-06T14:34:56+02:00"
   },
   {
     "path": "posts/2020-02-12-article 6/",

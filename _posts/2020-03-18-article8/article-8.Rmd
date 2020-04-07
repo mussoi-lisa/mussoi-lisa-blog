@@ -1,25 +1,15 @@
 ---
-title: "Article 8 : Ocean acidification impacts oysters' memory of environmental stress"
+title: "Article 8 :Ocean acidification impacts oysters' memory of environmental stress "
 author:
   - name: Mussoi Lisa
-date: 16-03-2020
+    url: {}
+date: 03- 16-2020
 categories:
-  - Ocean
-  - Oyster
-  - Acidification
 preview: 
 output:
   distill::distill_article:
     self_contained: false
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
-
-
-
 
 ## Vocabulary 
 
@@ -40,15 +30,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 ## Analysis table 
-
 | Researchers                  | Laura Spencer, from the University of Washington School of Aquatic and Fishery Sciences. Yaamini Venkataraman is a graduate student in aquatic and fishery                   |
-| Published in?                | March 16, 2020                                                       |
+| Published in?                | March 12, 2020                                                       |
 | General topic?               | The effect of the acidification of the ocean  |
 | Procedure/what was examinated? | They test 2 type of Oytser, the Pacifical Oyster and the Olympia Oyster. They test them to extreme temperture, and extreme acidifical condition. They check oytser from Puget Sound (it's a sea near Seattle). |
 | Conclusions/discovery?       |They found that with a hot water the oyster spawn more earlier. They found that the offspring of the oyster who was test to acidification in labs are more resistant that the rest. They found too that the Olympia Oyster adult are more resistant that the Pacific Oyster.But an another experience found that if adult oyster was stressed, it can have an impact on their offspring.   |
 | Remaining questions?         | So we have 2 constrast experience. Maybe cause of that the different scietist studied the oysters at different stade of their life. And They don't know why a type of oyster are more resilient than an another.   |
 
-
 <https://www.sciencedaily.com/releases/2020/03/200312163837.htm>
-
-
