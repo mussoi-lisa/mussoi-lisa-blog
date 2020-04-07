@@ -22,13 +22,13 @@ output:
 | Cope | overcome difficulties|
 | Sweeping | using broom  |
 | Offspring  | child  |
-| Intertidal | environement where there are a lot of waves |
+| Intertidal | environment where there are a lot of waves |
 |  harsh | severe |
-| Withstand | Resist  |
+| to withstand | to resist  |
 | Spawn |  produce eggs |
 | rear |  go back |
 | carryover | postponed   |
-| Shellfish | Crustaceae |
+| Shellfish | Crustacean |
 
 
 
