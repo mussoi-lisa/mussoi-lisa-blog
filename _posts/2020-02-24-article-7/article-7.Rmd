@@ -8,7 +8,7 @@ categories:
   - ocean 
   - vision 
   - oxygene
-preview: article7_files/Images/squid.jpg
+preview: article-7_files/Images/squid.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -37,10 +37,10 @@ output:
 | ---------------------------- | ------------------------------------------------------------------- |
 | Researchers                  |Lillian McCormick is scientists at Scripps Institution of Oceanography at the University of California San Diego, Nicholas Oesch is a researcher at the UC San Diego Department of Psychology.|
 | Published in?                |  9 may 2019|
-| General topic?               | Low oxygen levels could temporarily blind a marine animal such as a crab or squid. Especially if the animals are in the larval stage. When an animal is in the larval stage, it is in the zooplankton. Zooplankton need to see their prey, hide or migrate. But because of pollution, oxygen levels drop and animals can go blind. |
-| Procedure/what was examinated? | They exposed animals such as crabs or squid to different levels of oxygen and examined the visual response obtained with an electrode that was connected to the animals retina.  |
-| Conclusions/discovery?       | They found that mink can be reduced by 60-100% due to the low oxygen content. Vision began to decrease at the level of oxygen found at the surface of the ocean. The ocotopus lasted longer than the other animals. But when the oxygen level increases, they regains their sight. |
-| Remaining questions?         |They don't how it infect the behaviour of animals because they need their vision to the migration or to eat and see their prey.     |
+| General topic?               | The low oxygens could temporary blind marine animals like crabs or squid. Especially if the animals are in the larvae state. When an animal is in their larvae states it ’s in the zooplankton. Zooplankton need to see to see their prey, to hide it or for the migration. But cause of pollution the oxygen level decrease and marine animal could be blind. |
+| Procedure/what was examinated? | They exposed animal like crabs or squid at different levels of oxygens and they examined the elicit visual response with electrode that was connect the to retina of the animals  |
+| Conclusions/discovery?       | They found that the vision can be reduce by 60 to 100% cause of low oxygen levels. The vision began to decrease at the level of oxygen that are in the surface of ocean. The octopus held out longer than another animals. But when the levels of oxygen increase it recover their slight. |
+| Remaining questions?         |They don't how it infect the behavior of animals because they need their vision to the migration or to eat and see their prey.     |
 
 
 

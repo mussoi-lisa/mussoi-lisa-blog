@@ -3,7 +3,7 @@ title: "Article 2: Mystery disease is killing Caribbean corals"
 author:
   - name: Lisa Mussoi 
 date: 11-04-2019
-Preview: ../Images/Corail.jpg 
+Preview: article-2_files/Images/Corals.jpg 
 output:
   distill::distill_article:
     self_contained: false
@@ -11,7 +11,7 @@ output:
 
 
 
-![](Images/corail1.jpg)
+![](article-2_files/Images/corail1.jpg)
 
 
 
@@ -39,14 +39,14 @@ output:
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | Marilyn Brandt, works  at the St. Thomas campus of the University of the Virgin Islands with her scientist team. Karen Neely works at Nova Southeastern University in Fort Lauderdale. Amy Apprill works at Woods Hole Oceanographic Institution in Massachusetts. Laura Mydlarz she is a immunologist at the University of Texas at Arlington.               |
+| Researchers                  | Marilyn Brandt, works  at the St. Thomas campus of the University of the Virgin Islands with her scientist team. Karen Neely works at Nova Southeastern University in Fort Lauderdale. Amy Apprill works at Woods Hole Oceanographic Institution in Massachusetts. Laura Mydlarz she is an immunologist at the University of Texas at Arlington.               |
 | Published in?                | August 29, 2019                                                       |
 | General topic?               |  Coral disease in Caribbean's seas                    |
-| Procedure/what was examinated? |They found the coral disease near Florida and near the Caribbean islands. They think that warming water and overfishing are very bad for corals because warming water is good for bacteria growth and overfishing can stress corals and they can be weaker so they can get sick faster. Corals can also bleach. This is the main cause of coral decline because they eject algae from their symbiosis. To find the source of the germ, scientists analyzed the germ that lived in the water near the coral and they analyzed other animals in a laboratory with the diseased coral. Mydlarz had made the corals believe that they were infected with a bacterium and she saw that they were making new cells, but the warm coral, when it dies, always remains as a dead cell. |
+| Procedure/what was examinated? |They found coral’s disease near Florida and near Caribbean’s islands. They think that warming water and overfishing are very bad for corals because warming water is good for the development of bacterias and overfishing can stress corals and they can be weaker so be sick faster. Corals can bleach too. It’s the major cause of the corals decline because they eject their symbioses algae. To find the source of the microbe, the scientists analyzed the one who lived in water near the coral and they analyzed other animals in a lab with the sick coral. Mydlarz had made the corals believe that they were infected by a bacteria and she saw that they made new cells but the healthy coral, when it dies, remains still in state of die cell. |
 | Conclusions/discovery?       |
-They found that the disease is contagious and that pollution can be the cause. The disease is called Skittle-D and scientists have discovered that it is caused by more than one pathogen. They found that the immune system of diseased corals is different from that of healthy corals.|
+They found that the disease is contagious and that pollution can cause the disease. The disease is called Skittle-D and the scientists found that it’s cause by more than one pathogens. They found that the immune systems of sick coral is different from the healthy coral’s immune systems.|
 | Remaining questions?         |
-They found solutions. They have thought of an antibiotic paste to brush and put a healthy coral between two diseased corals, but they don't know if this can work in the long term. Coral reefs are very important in the marine ecosystem and Skittle-D can spread very quickly and very easily, so they don't know how to stop these diseases. They analysed the coral reef near Puerto Rico and they found that the coral has the plague, so it is less severe than Skittle-D.  |
+They found some solutions. They thought of a antibiotic pasta to slather and put one healthy coral between 2 sick corals but they don’t know if it can work on the long term. Coral reefs are very important in the marine ecosystems and the Skittle-D can spread very fast and very easily so they don’t know how stop these disease. They analyzed the coral reef near Porto Rico and they saw that the coral has the with plague so it’s less severe that Skittle-D.  |
 
 
 <https://www.sciencenewsforstudents.org/article/mystery-disease-killing-caribbean-corals>

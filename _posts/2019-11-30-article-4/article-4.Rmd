@@ -38,9 +38,9 @@ knitr::opts_chunk$set(echo = FALSE)
 | Researchers                  |  Dr. Jonathan Whitney, it's a marin ecologist form the Joint Institute for Marine and Atmospheric Research and NOAA.|
 | Published in?                |  11 November 2019                                                     |
 | General topic?               |  the contamination of plastic in the larval fish                      |
-| Procedure/what was examinated? | Near Hawaii, some scientists observe that there are more fish larvae on the surface of the water table. That was very good because lavaliere fish develop with phytoplacton and that's very good for the marine ecosystem.  Plastic is harmful to larval fish, but for adult fish, it can cause stomach upset and kill them.|
-| Conclusions/discovery?       | Surface slicks are where the fish larvae find a lot of food, but it is also where there is a lot of plastic, so they eat a lot of tiny plastic particles. Scientists have found that many species of fish are affected by this problem.  Plastic is harmful to larval fish, but it can cause stomach upset and kill them in adult fish.|
-| Remaining questions?         | Today the scientific doesn't kown all the effect of the plastic on fishes.  |
+| Procedure/what was examinated? | Near Hawaï some scientist observe that there are more larval fish at the surface slicks. It’s was very nice because the larval fish develop with phytoplankton and it’s very good for the marine ecosystem. In larval fish the plastic it’s harmful but in adult fish it can cause stomach hurt and kill them.|
+| Conclusions/discovery?       | The surface slicks is the place where larval fish find a lot of food but it’s also the place where there are a lot of plastic so it eat a lot of minute particle of plastic. The scientific find that a lot of species of fish are concerned by this problem. In larval fish the plastic it’s harmful but in adult fish it can cause stomach hurt and kill them.|
+| Remaining questions?         | Today the scientific don't kown all the effect of the plastic on fishes.  |
 
 
 <https://phys.org/news/2019-11-prey-size-plastics-invading-larval-fish.html>
