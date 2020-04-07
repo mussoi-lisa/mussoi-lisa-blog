@@ -1,15 +1,18 @@
 ---
-title: "Article 8 :Ocean acidification impacts oysters' memory of environmental stress "
+title: "Article 8 :Ocean acidification impacts oyster's memory of environmental stress "
 author:
   - name: Mussoi Lisa
     url: {}
 date: 03- 16-2020
 categories:
-preview: 
+preview: article-8_files/Images/oyster.jpg
 output:
   distill::distill_article:
     self_contained: false
 ---
+
+![](article-8_files/Images/oysterA.jpg)
+
 
 ## Vocabulary 
 
