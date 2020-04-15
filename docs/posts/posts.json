@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/Conclusion/",
+    "title": " Conclusion ",
+    "description": {},
+    "author": [
+      {
+        "name": "Mussoi Lisa",
+        "url": {}
+      }
+    ],
+    "date": "2020-04-16",
+    "categories": [],
+    "preview": "posts/Conclusion/Conclusion_files/Images/ocean-pollution-solutions.jpg",
+    "last_modified": "2020-04-15T17:35:36+02:00"
+  },
+  {
     "path": "posts/Introduction/",
     "title": " 1.Introduction ",
     "description": {},

@@ -1,0 +1,19 @@
+---
+title: " Conclusion "
+author:
+  - name: Mussoi Lisa
+    url: {}
+date: 04- 16-2020
+categories:
+preview: Conclusion_files/Images/ocean-pollution-solutions.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+During my research, I discovered that pollution of the ocean has different impacts on all marine organisms. The main causes is the acidification of oceans, the plastic and toxic particles that have a lot of secondary effects. I discovered too, that a problems at the beginning of the web-food it’s more dangerous because this problem will get worse in the rest of the web-food, for example the methyl mercury or PCB’s. 
+
+But it exist solutions to fight this pollution, for the acidification of ocean, we can try to reduce our production of carbon like eat less meat, take bicycles instead of car, use less energy, pay attention to our consummation of water or recycle our waste. All this simple action can reduce the production of carbon, if there are less carbon in atmosphere the carbon cycle will not perturb and the excess will not go in ocean. 
+
+To reduce plastic in ocean, we can reduce our consummation of plastic like use biodegradable plastic, or use reusable bag, reusable water bottle, and decrease our plastic consummation in general. If there are less plastic, there will have less plastic in ocean. 
+
+So to save ocean and marine organisms we all must pay attention at our consummation and industries must be decrease their production on carbon and toxic substances too…
