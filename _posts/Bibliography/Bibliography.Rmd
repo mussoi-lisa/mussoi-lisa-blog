@@ -1,0 +1,32 @@
+---
+title: "Bibliography "
+author:
+  - name: Mussoi Lisa
+    url: {}
+date: 04- 18-2020
+categories:
+preview: Bibliography_files/Image/livre.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+**Introduction**
+#https://sciencing.com/negative-effects-pollution-5268664.html
+#https://earthobservatory.nasa.gov/features/CarbonCycle 
+#https://www.noaa.gov/education/resource-collections/ocean-coasts-education-resources/ocean-acidification
+#https://www.iucn.org/resources/issues-briefs/marine-plastics
+
+**Articles**
+#https://www.sciencedaily.com/releases/2020/03/200312163837.htm (consulted on 10-16-2019)
+#https://www.sciencenewsforstudents.org/article/mystery-disease-killing-caribbean-corals (consulted on 11-04-2019)
+#https://phys.org/news/2019-11-climate-overfishing-boosting-toxic-mercury.html (consulted on 11-13-2019)
+#https://phys.org/news/2019-11-prey-size-plastics-invading-larval-fish.html (consulted on 11-30-2019)
+#https://www.sciencedaily.com/releases/2019/11/191113170310.htm (consulted on 12-13-2019)
+#https://phys.org/news/2019-12-harbor-porpoise-calves-exposed-neurotoxic.html (consulted on 02-12-2020)
+#https://phys.org/news/2019-05-oxygen-temporarily-marine-invertebrates.html (consulted on 02-24-2020)
+#https://www.sciencedaily.com/releases/2020/03/200312163837.htm (consulted on 03-16-2020)
+
+**Conclusion**
+#http://therevolutionmovie.com/index.php/open-your-eyes/ocean-acidification/solutions/
+#https://science.howstuffworks.com/environmental/green-tech/sustainable/5-plastic-substitutes9.htm
+#https://www.businessinsider.com/household-plastic-alternatives-eco-friendly-2018-8?IR=T#stainless-steel-food-storage-22
